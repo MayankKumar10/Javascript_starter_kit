@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 47878154,
+      "firstName": "Mayank",
+      "lastName": "Kumar",
+      "email": "mayankkumark28@gmail.com"
+    },
+    {
+      "id": 50531697,
+      "firstName": "Abhishek",
+      "lastName": "Kumar",
+      "email": "Abhishekkumar@gmail.com"
+    }
+  ]
+}
